@@ -16,7 +16,7 @@ Some things that would be nice to have in future
 
 ### Example
 
-![Alt text](example.png "Title")
+![Example of saved spin.](example.png "Example Spin")
 
 ## Licence
 
