@@ -1,0 +1,20 @@
+const subGenres = [
+  "Platformer",
+  "Shooter",
+  "Fighting",
+  "Beat 'em Up",
+  "Stealth",
+  "Survival Horror",
+  "Metroidvania",
+  "Visual Novel",
+  "Rogue-like",
+  "Tactics",
+  "4X",
+  "Artillery",
+  "RTS",
+  "MMO",
+  "Tower Defence",
+  "Turn-based",
+  "Racing",
+  "Casual"
+];

@@ -1,0 +1,1 @@
+const graphics = ["2D", "Text Based", "3D"];
